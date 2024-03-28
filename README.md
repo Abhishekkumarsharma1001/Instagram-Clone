@@ -47,6 +47,6 @@ Phone View
 
 ## ℹ Infos
 
-Made by [Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213). 🙂
+Created by [Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213). 🙂
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
