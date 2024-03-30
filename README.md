@@ -1,4 +1,4 @@
-# Instagram Clone
+# Instagram Clone 
 
 > Responsive Instagram UI Clone
 
@@ -19,7 +19,7 @@ Phone View
 
 
 
-## 🤓 Improved Skills
+## 🤓 Improved Skills✨
 
 - Layout (Flexbox);
 - Positioning;
@@ -47,6 +47,6 @@ Phone View
 
 ## ℹ Infos
 
-Created by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213). 🙂
+Created by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
