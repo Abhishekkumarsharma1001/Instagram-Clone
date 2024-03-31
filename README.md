@@ -33,7 +33,7 @@ Phone View
 - LocalStorage;
 - Intersection Observer;
 
-## ✅ ToDo
+## ✅ ToDo 
 
 - [ ] Refactor CSS (Maybe add SASS).
 
