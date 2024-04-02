@@ -8,7 +8,6 @@ The latest update includes some nice new features, such as the gradient border a
 
 - **[Live Preview](https://bit.ly/Insta-Clone_Abhishek001)**
 
-
 **Preview:**</br>
 Light Theme
 ![Light Theme-1](https://github.com/Abhishekkumarsharma1001/Instagram-Clone/blob/main/Screenshot%202024-03-27%20203413.png).</br>
