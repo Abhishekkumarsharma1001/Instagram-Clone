@@ -48,3 +48,7 @@ Phone View
 Created by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
+
+#### Contact:
+For any inquiries or support, 
+please contact [abhikumarsharma146@gmail.com].
